@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DEE62FE829DFC05500022C36 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEE62FE729DFC05500022C36 /* ViewController2.swift */; };
 		DEF176F529DE9EE700359173 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF176F429DE9EE700359173 /* AppDelegate.swift */; };
 		DEF176F729DE9EE700359173 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF176F629DE9EE700359173 /* SceneDelegate.swift */; };
 		DEF176F929DE9EE700359173 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF176F829DE9EE700359173 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DEE62FE729DFC05500022C36 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		DEF176F129DE9EE700359173 /* coreDataBAse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = coreDataBAse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF176F429DE9EE700359173 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEF176F629DE9EE700359173 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				DEF176F629DE9EE700359173 /* SceneDelegate.swift */,
 				DEF176F829DE9EE700359173 /* ViewController.swift */,
 				DEF176FA29DE9EE700359173 /* Main.storyboard */,
+				DEE62FE729DFC05500022C36 /* ViewController2.swift */,
 				DEF1770029DE9EE800359173 /* Assets.xcassets */,
 				DEF1770229DE9EE800359173 /* LaunchScreen.storyboard */,
 				DEF1770529DE9EE800359173 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEE62FE829DFC05500022C36 /* ViewController2.swift in Sources */,
 				DEF176F929DE9EE700359173 /* ViewController.swift in Sources */,
 				DEF176F529DE9EE700359173 /* AppDelegate.swift in Sources */,
 				DEF176F729DE9EE700359173 /* SceneDelegate.swift in Sources */,
